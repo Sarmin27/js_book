@@ -1,5 +1,17 @@
 console.log("variable");
 
+/**
+ * Variable=var +able [container]
+it's changeable
+5 things to declare a variable
+var weight=30;
+here, 1.var =keyword
+2.weight=name
+3,4= man(30) set kora
+5. ;
+variable mane kono kichu store kore rakha
+ */
+
 // Variable : Variables are containers for storing information.
 //javaScript e variable declare kora hoi var,let,const keyword diye.
 // NAMING JS RULES
